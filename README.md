@@ -1,2 +1,2 @@
 # NokGPT.github.io
-Chat with the ancient Nok culture
+Ask me anything about the Nok Culture here https://nokgpt.github.io
